@@ -47,3 +47,5 @@ int main()
 // i++ (Outer for loop): Iska kaam hai unsorted hisse se ek naya element uthana. Yeh aage badhta hai.
 // j-- (Inner while loop): Iska kaam hai us uthaye gaye element ko, array ke sorted hisse mein peeche ki taraf jaakar uski sahi jagah par 'insert' karna.
 
+
+// hmesha arr[]---yeh bracket use karo bracket bi syntax mai glti ho skti hai and for ka lia ()
