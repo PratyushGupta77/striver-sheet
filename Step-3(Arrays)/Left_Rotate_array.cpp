@@ -27,3 +27,9 @@ int main() {
 // notes
 // esma kuch nhi khas kara pehla humna temp mai first element ko store karaya hai 
 // then saara bacha hua element mai for loop chlakar unko aga shift kardia and last mai temp wala elemnet ko daal dia 
+
+
+// n normalisation
+// n short, k = k % n; is a normalization step that makes sure k is always in the range [0, n-1].
+// This is important because rotating an array n times brings it back to its original state. So, rotating by k is the same as rotating by k % n.
+// This step handles all cases where k is large or a multiple of n, saving computation and making the code correct for any non-negative k.
